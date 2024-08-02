@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sufaid TP</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sufaidtp" alt="sufaidtp" /></a> </p>
+<h2>About me</h2>
+  <p>✨I am a self-taught full-stack web developer with a focus on the MERN stack. My passion for building and creating has driven me to gain expertise in web development and complete various personal projects. I am known for my calm and collected approach to problem-solving, which helps me to deliver high-quality work. Additionally, I am committed to staying up-to-date on the latest technologies and industry trends to ensure that my work is always innovative and effective.!</p>
+</div>
+
 
 - 🌱 I’m currently learning **MERN Stack**
 
